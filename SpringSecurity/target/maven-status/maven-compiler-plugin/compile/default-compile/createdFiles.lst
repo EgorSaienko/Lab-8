@@ -1,0 +1,15 @@
+com\mycompany\springsecurity\Controllers\ControllContent.class
+com\mycompany\springsecurity\JakartaRestConfiguration.class
+com\mycompany\springsecurity\Model\Student.class
+com\mycompany\springsecurity\security\UserPrincipial.class
+com\mycompany\springsecurity\Controllers\StudentController.class
+com\mycompany\springsecurity\security\UniUserDetailsService.class
+com\mycompany\springsecurity\Repo\ContentRepo.class
+com\mycompany\springsecurity\resources\JakartaEE10Resource.class
+com\mycompany\springsecurity\security\AppSecurityConfig.class
+com\mycompany\springsecurity\Repo\StudentRepo.class
+com\mycompany\springsecurity\Controllers\UserController.class
+com\mycompany\springsecurity\Model\User.class
+com\mycompany\springsecurity\ApplicationStarter.class
+com\mycompany\springsecurity\Model\Content.class
+com\mycompany\springsecurity\security\UserRepository.class
